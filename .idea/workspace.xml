@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16a0e9e3-f76c-45f9-be0d-7d4299f667f4" name="Default Changelist" comment="" />
+    <list default="true" id="16a0e9e3-f76c-45f9-be0d-7d4299f667f4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/password_checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/password_checker.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,9 +129,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579011358444" />
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1579011234941">
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1579099405703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579011234941" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579099405703" />
   </component>
 </project>
